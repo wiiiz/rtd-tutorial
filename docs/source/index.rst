@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+换成中文试试看。
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   没什么好注意的。
 
 Contents
 --------

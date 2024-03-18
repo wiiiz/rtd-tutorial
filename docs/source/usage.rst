@@ -1,12 +1,13 @@
-Usage
+Usage 使用
 =====
 
-.. _installation:
+.. _installation 安装 :
 
-Installation
+Installation 安装2
 ------------
 
 To use Lumache, first install it using pip:
+什么派破。
 
 .. code-block:: console
 
