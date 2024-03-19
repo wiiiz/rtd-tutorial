@@ -18,3 +18,4 @@ and offers a *simple* and *intuitive* API.
 
    learn_org
    switch/Switch
+   pic_test
