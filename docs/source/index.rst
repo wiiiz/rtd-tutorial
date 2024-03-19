@@ -1,4 +1,4 @@
-换成中文试试看。
+BalaBala
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 
    没什么好注意的。
 
-Contents
+内容
 --------
 
 .. toctree::
