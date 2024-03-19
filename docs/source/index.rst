@@ -17,4 +17,4 @@ and offers a *simple* and *intuitive* API.
 .. toctree::
 
    learn_org
-   switch/Switch破解
+   switch/switch

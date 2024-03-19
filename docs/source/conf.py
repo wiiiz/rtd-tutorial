@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'myst_parser',
+#    'myst_parser',
 ]
 
 intersphinx_mapping = {
@@ -38,8 +38,8 @@ html_theme = 'pydata_sphinx_theme'
 epub_show_urls = 'footnote'
 
 # -- 后缀
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.txt': 'markdown',
-    '.md': 'markdown',
-}
+# source_suffix = {
+#     '.rst': 'restructuredtext',
+#     '.txt': 'markdown',
+#     '.md': 'markdown',
+# }
